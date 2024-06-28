@@ -5,5 +5,4 @@ I did a little analysis of OZON to find Electric Toothbrushes and got a good res
 The project is incomplete, 1/3 of the analysis has been implemented and will be updated in the future
 
 
-![Graph](https://drive.google.com/file/d/1fRnfh0u7E5oxRKDB2dwdQzsKL2PpLyWr/view?usp=sharing)
-
+![graph](https://github.com/tiltewww/OZON-Analysis-1-page/assets/143228874/ddf6076f-d7fb-4f89-b1ef-1f72f97d8fa9)
