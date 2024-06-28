@@ -16,5 +16,5 @@ The code also counts:
 - The Maximum Price
 - The Minimum Price
 - The Average Price
-- 
+
 ![image](https://github.com/tiltewww/OZON-Analysis-1-page/assets/143228874/9a3da085-4c88-4ff8-aee7-68a7ebd43d20)
