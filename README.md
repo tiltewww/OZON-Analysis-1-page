@@ -2,7 +2,8 @@
 
 
 I did a little analysis of OZON to find Electric Toothbrushes and got a good result. 
-The project is incomplete, 1/3 of the analysis has been implemented and will be updated in the future
+The project is complete, 3/3 of the analysis has been implemented 
+
 
 
 The graph shows the price ratio of Toothbrushes on the first page:
