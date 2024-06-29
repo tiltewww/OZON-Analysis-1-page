@@ -18,3 +18,16 @@ The code also counts:
 - The Average Price
 
 ![image](https://github.com/tiltewww/OZON-Analysis-1-page/assets/143228874/9a3da085-4c88-4ff8-aee7-68a7ebd43d20)
+
+Other graph shows the ratio of good/excellent/bad rating on the page:
+
+![image](https://github.com/tiltewww/OZON-Analysis-1-page/assets/143228874/230f29b5-af81-44ed-922f-a0e0f3886255)
+
+They also show the ratio of the number of product reviews
+
+- 10000+ reviews
+- from 2000 to 10000 reviews
+- less than 2000 reviews
+
+![image](https://github.com/tiltewww/OZON-Analysis-1-page/assets/143228874/152adc6d-9d15-4315-abdd-a107e4dfe084)
+
